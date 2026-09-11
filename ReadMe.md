@@ -1,11 +1,14 @@
-                                                  Hey there 👋!
+# Hi, I’m Utkarsh Raj
 
+Biomedical Engineering student at the Indian Institute of Technology (BHU), Varanasi, interested in applied AI, computational processing, data analysis, and imaging.
 
+## Selected work
 
-     I am a Biomedical Engineering undergraduate student at the Indian Institute of Technology BHU (Varanasi) pursuing a Integrated Dual Degree (Btech+Mtech) in my third year.
+- [Blaze Inbox Copilot](https://github.com/madtitan02/Inbox-Copilot-AI-Support-Bot-for-Telegram) — a Python retrieval-augmented support-bot prototype with Telegram and web interfaces.
+- [RentAR](https://github.com/madtitan02/RentAR) — a static web prototype for a 3D rental-platform concept.
 
-     I have a keen interest in Open Source, computational processing, data analysis and imaging.
-     
-    You can Reach me at utkarshraj10c24@gmail.com
+## Focus areas
 
-    
+- Retrieval-augmented applications
+- Data analysis and computational imaging
+- Open-source collaboration
