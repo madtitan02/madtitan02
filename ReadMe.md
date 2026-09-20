@@ -1,44 +1,55 @@
 <div align="center">
-
-# Utkarsh Raj
-
-<sub>Biomedical Engineering · Applied AI · Computational Imaging · Open Source</sub>
-
-<br />
-
-[Selected work](#selected-work) · [Current focus](#current-focus) · [Contact](#contact)
-
+  <h1>UTKARSH RAJ</h1>
+  <p><i>product × data × strategy</i></p>
+  <p>Analyst at L.E.K. Consulting</p>
 </div>
 
 ---
 
-I build practical systems at the intersection of **retrieval-augmented AI**, **data-driven applications**, and **computational imaging**. My public work is a focused record of projects I can share; earlier coursework, experiments, and upstream contributions are preserved separately as an archive.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Current focus
+<sub>01 / NOW</sub>
 
-| Area | What I am exploring |
-| --- | --- |
-| Applied AI | Retrieval-augmented support workflows and source-aware answers |
-| Biomedical computing | Image processing, data analysis, and research-oriented tooling |
-| Product prototyping | Clear web experiences that turn technical ideas into usable concepts |
+### Turning ambiguity into decisions
 
-## Selected work
+I work at the intersection of business strategy, product thinking, and data analysis.
 
-| Project | Focus | What it shows |
-| --- | --- | --- |
-| [Blaze Inbox Copilot](https://github.com/madtitan02/Inbox-Copilot-AI-Support-Bot-for-Telegram) | RAG · Python · Flask · Telegram | A support-bot prototype with web and Telegram interfaces, conversation history, and source-oriented retrieval integration. |
-| [RentAR](https://github.com/madtitan02/RentAR) | HTML · CSS · JavaScript | A static web prototype for a 3D property-rental concept, covering discovery, location, and supporting user flows. |
-| [MRI](https://github.com/madtitan02/MRI) | MATLAB · Medical imaging | Research-oriented work on classification from radiomics MRI features. |
-| [RS-fetMRI](https://github.com/madtitan02/RS-fetMRI) | MATLAB · fMRI | A fetal resting-state fMRI processing workflow. |
+</td>
+<td width="50%" valign="top">
 
-## Working principles
+<sub>02 / THROUGHLINE</sub>
 
-> Build with a clear problem in view. Document the boundary of what a project does. Keep experiments, coursework, and upstream work attributable.
+### Research deeply. Frame clearly. Build what matters.
 
-## Earlier work
+My work moves from customer insight and market context to a decision people can act on.
 
-My GitHub archive also preserves learning projects, coursework submissions, school software, web experiments, and open-source forks. They are intentionally kept out of the active portfolio so the projects above remain the clearest view of my current direction.
+</td>
+</tr>
+</table>
 
-## Contact
+<sub>03 / SELECTED WORK</sub>
 
-[utkarshr494@gmail.com](mailto:utkarshr494@gmail.com)
+| Lens | Work |
+| :-- | :-- |
+| Product & growth | **RISA Labs**: market entry and go-to-market thinking for India's non-GST seller base. |
+| Product strategy | **Meesho**: a seller-expansion case built around a hyperlocal storefront and onboarding. |
+| Data & research | **HiLens**, fraud detection, and retail intelligence: structured analysis for risk, pricing, and operations questions. |
+| Building in public | [Inbox Copilot](https://github.com/madtitan02/Inbox-Copilot-AI-Support-Bot-for-Telegram) and [RentAR](https://github.com/madtitan02/RentAR): practical experiments at the edge of AI and product. |
+
+<sub>04 / JOURNEY</sub>
+
+| Chapter | What it shaped |
+| :-- | :-- |
+| **L.E.K. Consulting** | Current work as an Analyst. |
+| **Vee Cap Media** | Customer research, pricing, and commercial problem-solving. |
+| **UNISR** | Applied research in physiological-signal analysis. |
+| **IIT (BHU)** | Integrated Dual Degree in Biomedical Engineering, 2021 to 2026. |
+| **Campus leadership** | Leading teams and live events through FMC Weekend and E-Cell. |
+
+<sub>05 / CONNECT</sub>
+
+[LinkedIn](https://www.linkedin.com/in/utkarshraj01/) &nbsp;·&nbsp; [Portfolio](https://web-journey-12.preview.emergentagent.com/) &nbsp;·&nbsp; [utkarshr494@gmail.com](mailto:utkarshr494@gmail.com)
+
+<sub>Open to thoughtful conversations on product, strategy, data, and the questions in between.</sub>
